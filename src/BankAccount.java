@@ -1,4 +1,4 @@
 public interface BankAccount {
-    //withdraw
-    //deposit
+
+   public boolean withdrawMoney(int money);
 }
